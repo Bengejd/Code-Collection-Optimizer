@@ -1,0 +1,11 @@
+{
+  "name": "code-collection-optimizer",
+  "version": "0.0.1",
+  "description": "Analyzes your TS code for methods that could potentially speed up your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bengejd",
+  "license": "MIT"
+}
